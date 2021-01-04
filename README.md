@@ -1,4 +1,4 @@
-# EC 421, Spring 2020
+# EC 421, Winter 2020
 
 Welcome to **Economics 421: Introduction to Econometrics** (Spring 2020) at the University of Oregon (taught by [Edward Rubin](https://edrub.in)).
 
